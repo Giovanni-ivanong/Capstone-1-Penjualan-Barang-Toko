@@ -12,7 +12,7 @@ Aplikasi Python berbasis terminal untuk mencatat dan mengelola data struk pembel
 
 ## Instalasi
 1. `pip install colorama`
-2. Jalankan `python main.py`
+2. Jalankan `Capstone_Module_1.py`
 
 ## Format Data
 ```python
